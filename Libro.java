@@ -36,6 +36,6 @@ class Libro {
     }
     
     protected String getLibro() {
-    	return titulo + "por " + autor + " - ISBN: " + ISBN;
+    	return titulo + " por " + autor + " - ISBN: " + ISBN;
     }
 }
